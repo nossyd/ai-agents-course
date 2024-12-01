@@ -11,7 +11,7 @@ release_date:
 due_date:
 materials:
    -
-      name: hw4.ipynb
+      name: hw3-part-2-aidm.ipynb
       url: /homeworks/hw3/hw3-part-2-aidm.ipynb
 submission_link:
 readings:
