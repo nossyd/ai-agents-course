@@ -10,7 +10,7 @@ release_date:
 due_date:
 materials:
     - 
-        name: hw3.zip
+        name: hw1.zip
         url:
 submission_link:
 ---
@@ -26,12 +26,7 @@ The materials that you will need for this homework are:
 </div>
 {% endif %}
 
-
-
-In Class Activity: Planning and PDDL
-=============================================================
-
-Today in class, we will look at a classical planning algorithms that use a language for defining plans called PDDL (Planning Domain Definition Language).  PDDL and classic planning are all defined in the Russell and Norvig textbook AI A Modern Approach, in chapter 11.  I also recommend this tutorial by Kory Becker: [Artificial Intelligence Planning with STRIPS, A Gentle Introduction](http://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/).  She has an [online demo](https://stripsfiddle.herokuapp.com) that lets you upload your own PDDL-specified problems, and find solutions to them.  
+This HW will look at a classical planning algorithms that use a language for defining plans called PDDL (Planning Domain Definition Language).  PDDL and classic planning are all defined in the Russell and Norvig textbook AI A Modern Approach, in chapter 11.  I also recommend this tutorial by Kory Becker: [Artificial Intelligence Planning with STRIPS, A Gentle Introduction](http://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/).  She has an [online demo](https://stripsfiddle.herokuapp.com) that lets you upload your own PDDL-specified problems, and find solutions to them.  
 
 
 We will use this Python library:
@@ -73,7 +68,7 @@ _Note: The enforcement of argument types like `(plane ?p)` can be left out of th
 
 1. Open [{{page.materials[0].name}}]({{page.materials[0].url}}).
 2. Unzip it 
-3. open CIS-7000/in_class_activities/planning/planning.ipynb
+3. open hw1/part-3-planning/planning.ipynb
 3. Create pairs of PDDL files for the following problems:
 * `move-item-to-location`
 * `go-fishing`
