@@ -74,7 +74,7 @@ TAs
 : [Bosung Kim](https://bosung.github.io)
 
 Time and Place
-: Winter 2024, Tuesdays & Thursdays from 3:30 to 4:50 pm PT in CSE 2154
+: Winter 2025, Tuesdays & Thursdays from 3:30 to 4:50 pm PT in CSE 2154
 : First day of class is January 06, 2025
 : Last day of class is
 
