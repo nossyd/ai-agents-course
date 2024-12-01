@@ -1,0 +1,6 @@
+exclude: ['README.md']
+include: []
+timezone: US/Eastern
+markdown: kramdown
+highlighter: rouge
+future: true

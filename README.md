@@ -1,1 +1,1 @@
-# ai-agents-course-public
+# ai-agents-course
