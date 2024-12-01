@@ -65,7 +65,7 @@ Required Knowledge: Students should be familiar with basic CS concepts such as S
 Recommended Preparation for Those Without Required Knowledge: Undergrad Intro to AI/RL, and grad level Intro to Deep Learning / NLP types of courses are highly recommended
 
 Website
-: [pearls-lab.githib.io](http://interactive-fiction-class.org/)
+: [pearls-lab.githib.io/ai-agents-course](http://pearls-lab.githib.io/ai-agents-course)
 
 Instructors
 : [Prithviraj Ammanabrolu](https://prithvirajva.com)
