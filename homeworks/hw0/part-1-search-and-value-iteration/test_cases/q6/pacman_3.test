@@ -1,0 +1,23 @@
+# This is a basic depth first search test
+class: "ValueIterationTest"
+
+# The following specifies the layout to be used 
+layoutName: "smallMazeGhost"
+layout: """
+%%%%%%%%%%%%%%%%%%%%%%
+% %%        % %      %
+%    %%%%%% % %%%%%% %
+%%%%%%     P  %      %
+%    % %%%%%% %% %%%%%
+% %%%% %     G   %   %
+%        %%% %%%   % %
+%%%%%%%%%%    %%%%%% %
+%.         %%        %
+%%%%%%%%%%%%%%%%%%%%%%
+"""
+discount: "0.9"
+epsilon: "0.2"
+learningRate: "0.1"
+numExperiences: "3000"
+valueIterations: "100"
+iterations: "10000"
