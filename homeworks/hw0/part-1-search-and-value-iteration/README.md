@@ -1,6 +1,6 @@
 ## Part 1: Search and Value Iteration
 
-![maze](assets/img/hw0/maze.png)
+![maze](/assets/img/hw0/maze.png)
 
 ### Introduction
 
