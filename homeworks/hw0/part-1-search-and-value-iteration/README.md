@@ -217,11 +217,11 @@ python autograder.py -q q5
 
 Value Iteration computes the value function $V_k(s)$ for each state $s$, which represents the maximum expected reward achievable starting from that state. The value update equation is:
 
-![value-iteration-eq](assets/img/hw0/VI_eq.png)
+![value-iteration-eq](/assets/img/hw0/VI_eq.png)
 
 Write a value iteration agent in `ValueIterationAgent`, which has been partially specified for you in `valueIterationAgents.py`. Your value iteration agent is an offline planner in the Pacman grid world, with (x, y) coordinates. The MDP (Markov Decision Process) state is the exact board configuration facing Pacman (see `PacmanMDP` class in `valueIterationAgents.py`).
 
-![pacman-value-iteration](assets/img/hw0/panman_value_iteration.png)
+![pacman-value-iteration](/assets/img/hw0/panman_value_iteration.png)
 
 `ValueIterationAgent` takes an MDP on construction and runs value iteration for the specified number of iterations before the constructor returns (see the `__init__` function of `ValueIterationAgent`).
 
@@ -249,7 +249,7 @@ python pacman.py -l tinySimple -p ValueIterationAgent -i 100
 
 Hint: On the tinySimple layout, running value iteration for 10 iterations should give you this output:
 
-![tinySimple_eg](assets/img/hw0/tinySimple_iter10.png)
+![tinySimple_eg](/assets/img/hw0/tinySimple_iter10.png)
 
 ### Acknowledgment
 This assignment incorporates many elements from the CS 188 course materials developed at UC Berkeley.
