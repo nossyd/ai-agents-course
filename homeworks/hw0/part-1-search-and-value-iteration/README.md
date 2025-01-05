@@ -1,4 +1,4 @@
-## Part 1: Search and Value Iteration
+## Part 1: Search and Value Iteration (50pts)
 
 ![maze](/assets/img/hw0/maze.png)
 
@@ -51,7 +51,19 @@ python autograder.py
 ```
 
 This command grades your solution to all problems in Part 1 and shows the results of that question's tests, the questions grade, and a final summary at the end.
-You will receive full credit for Part 1 if you pass at least 18 out of the 20 test cases.
+You will receive full credit for Part 1 if you pass at least 18 out of the 20 test cases. If the number of passed test cases is fewer than 18, 3 points will be deducted for each failed case.
+
+| # passed | Score |
+|----------|-------|
+| >= 18    |  50   |
+| 17       |  47   |
+| 16       |  44   |
+| 15       |  41   |
+| ...      |  ...  |
+| 2        |   2   |
+| 1        |   0   |
+| 0        |   0   |
+
 
 The command of autograder for each question is provded in each section.
 
