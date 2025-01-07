@@ -1,6 +1,6 @@
 ## Part 1: Search and Value Iteration (50pts)
 
-![maze](/ai-agents-course/assets/img/hw0/maze.png)
+![maze](/assets/img/hw0/maze.png)
 
 ### Introduction
 
