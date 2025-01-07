@@ -16,6 +16,9 @@ readings:
 
 # HW0
 
+- Release data: 01/07/2025
+- Due date: 01/21/2025 at 11:59 PM.
+
 HW0 consists of two parts:
 - [Part 1: Search and Value Iteration](https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw0/part-1-search-and-value-iteration) (50pts)
 - [Part 2: LM training with Huggingface](https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw0/part-2-huggingface-LM-training) (50pts)
