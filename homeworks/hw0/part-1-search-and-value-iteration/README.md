@@ -6,7 +6,7 @@
 
 In this assignment, your Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. You will build general search algorithms and apply them to Pacman scenarios.
 
-The code for Part 1 consists of several Python files under `hw0/part-1-search-and-value-iteration`, some of which you will need to read and understand in order to complete the assignment, and some of which you can ignore.
+The code for Part 1 consists of several Python files located under `hw0/part-1-search-and-value-iteration` in the course's GitHub repository ([https://github.com/pearls-lab/ai-agents-course](https://github.com/pearls-lab/ai-agents-course)), some of which you will need to read and understand in order to complete the assignment, and some of which you can ignore.
 
 
 | Files you'll edit:         | Description                                                                 |
