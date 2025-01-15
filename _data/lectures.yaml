@@ -1,7 +1,7 @@
 -
   date: 2025-01-07
   title: Intro
-  recording: 
+  slides: intro.pdf
   # readings:
   #       -
   #         authors: Jason Scott
@@ -12,7 +12,7 @@
 -
   date: 2025-01-09
   title: What are Agents?
-  recording: 
+  slides: what_is_an_agent.pdf
   readings:
         -
           title: AIMA Chapter 1
@@ -21,7 +21,7 @@
 -
   date: 2025-01-14
   title: Simulated Environments and Reality
-  recording: 
+  slides: simulations_and_reality.pdf
   readings:
         -
           title: A Systematic Survey of Text Worlds as Embodied Natural Language Environments
