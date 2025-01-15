@@ -7,6 +7,64 @@ active_tab: resources
 
 # Resources
 
+## Simulations
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Dataset</th> 
+      <th>Papers</th>
+      <th>Paper Code</th>
+      <th>Hugging Face Link</th>
+      <th>Leaderboard</th>
+    </tr>
+  </thead>
+  <tbody>
+
+
+{% for simulation in site.data.resources.simulations %}
+	<tr>
+	<td width="20%">
+	 {% if simulation.url %}
+	 <a href="{{simulation.url}}">{{simulation.name}}</a> {% if simulation.info %} - {{simulation.info}} {% endif %}
+	 {% else %}
+	 {{simulation.name}} {% if simulation.info %} - {{simulation.info}} {% endif %}
+	 {% endif %}
+	</td>
+	
+	<td width="30%">
+	 {% if simulation.paper1 %}
+	 <a href="{{simulation.paper_url1}}">{{simulation.paper1}}</a>
+	 {% endif %}
+	 {% if simulation.paper2 %}
+	 and
+	 <a href="{{simulation.paper_url2}}">{{simulation.paper2}}</a>
+	 {% endif %}
+	</td>
+	
+	<td width="10%">
+	 {% if simulation.code %}
+	 <a href="{{simulation.code}}">{{simulation.code}}</a>
+	 {% endif %}
+	</td>
+	
+	<td width="10%">
+	 {% if simulation.hugging_face %}
+	 <a href="{{simulation.hugging_face}}">{{simulation.hugging_face}}</a>
+	 {% endif %}
+	</td>
+	
+	<td width="10%">
+	 {% if dataset.leaderboard %}
+	 <a href="{{simulation.leaderboard}}">{{simulation.leaderboard}}</a>
+	 {% endif %}
+	</td>
+	
+	</tr>
+{% endfor %}
+</tbody>
+</table>
+
 ## Story Datasets
 
 <table class="table table-striped">
