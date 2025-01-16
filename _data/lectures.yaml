@@ -34,7 +34,7 @@
 -
   date: 2025-01-16
   title: How to make a simulation?
-  slides:
+  slides: how_to_make_a_simulation.pdf
   readings:
         -
           title: Intro to PDDL
