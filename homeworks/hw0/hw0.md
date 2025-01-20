@@ -31,14 +31,14 @@ You need to submit code for Part 1 and Part 2, and a PDF file for Part 2.
 
 ### Submit your code
 
-You need to submit **4** files to Gradescope: "HW 0 - Code".
+Please submit the following **4** files to the assignment "HW 0 - Code" on Gradescope:
 
 - `search.py`
 - `searchAgents.py`
 - `valueIterationAgents.py`
 - `hw0-part-2.ipynb`
 
-Part 1 will be automatically graded by the Gradescope system. The score displayed immediately after submission will be your final score for Part 1.
+Do not zip or compress your files. Submit them as individual files. Part 1 will be automatically graded by the Gradescope system. The score displayed immediately after submission will be your final score for Part 1.
 
 ### Submit your PDF (only for Part 2)
 
