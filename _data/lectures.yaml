@@ -17,7 +17,7 @@
         -
           title: AIMA Chapter 1
           url: https://aima.cs.berkeley.edu/global-index.html
-          authors: Stuart Russel and Peter Norvig
+          authors: Stuart Russell and Peter Norvig
 -
   date: 2025-01-14
   title: Simulated Environments and Reality
@@ -53,4 +53,44 @@
           url: https://www.youtube.com/watch?v=LRhbcDzbGSU
           title: "GET LAMP: The Text Adventure Documentary"
           length: 2 hours
+          optional: true
+-
+  date: 2025-01-21
+  title: Search and Planning in Simulations
+  slides: # how_to_make_a_simulation.pdf
+  readings:
+        -
+          title: AIMA Chapter 11
+          url: https://aima.cs.berkeley.edu/newchap11.pdf
+          authors: Stuart Russell and Peter Norvig
+        -
+          title: RL Book Chapter 8.1, 8.9-8.11
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+-
+  date: 2025-01-23
+  title: Classical Control, Pre-Deep Learning
+  slides: # how_to_make_a_simulation.pdf
+  readings:
+        -
+          title: RL Book Chapter 4, 5
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+-
+  date: 2025-01-28
+  title: Deep Reinforcement Learning, Pre-LLMs
+  slides: # how_to_make_a_simulation.pdf
+  readings:
+        -
+          title: RL Book Chapter 6.1-6.5
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+        -
+          title: Playing Atari with Deep Reinforcement Learning
+          url: https://arxiv.org/abs/1312.5602
+          authors: Minh et al. 2013, DeepMind
+        -
+          title: (Nature version) Human-level control through deep reinforcement learning
+          url: https://daiwk.github.io/assets/dqn.pdf
+          authors: Minh et al. 2015, DeepMind
           optional: true
