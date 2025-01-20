@@ -94,3 +94,26 @@
           url: https://daiwk.github.io/assets/dqn.pdf
           authors: Minh et al. 2015, DeepMind
           optional: true
+-
+  date: 2025-01-30
+  title: Project Workshopping
+-
+  date: 2025-02-04
+  title: Project Pitches
+-
+  date: 2025-02-04
+  title: Reinforcement Learning and Search Combined
+  readings:
+        -
+          title: (Alpha Zero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+          url: https://arxiv.org/abs/1712.01815
+          authors: Silver et al. 2017
+        -
+          title: How to Avoid Being Eaten by a Grue Structured Exploration Strategies for Textual Worlds
+          url: https://arxiv.org/abs/2006.07409
+          authors: Ammanabrolu et al. 2019
+        -
+          title: (Mu Zero) Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
+          url: https://arxiv.org/abs/1911.08265
+          authors: Schrittwieser et al. 2019
+          optional: True
