@@ -88,11 +88,11 @@
         -
           title: Playing Atari with Deep Reinforcement Learning
           url: https://arxiv.org/abs/1312.5602
-          authors: Minh et al. 2013, DeepMind
+          authors: Minh et al. 2013
         -
           title: (Nature version) Human-level control through deep reinforcement learning
           url: https://daiwk.github.io/assets/dqn.pdf
-          authors: Minh et al. 2015, DeepMind
+          authors: Minh et al. 2015
           optional: true
 -
   date: 2025-01-30
