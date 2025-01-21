@@ -56,8 +56,8 @@
           optional: true
 -
   date: 2025-01-21
-  title: Search and Planning in Simulations
-  slides: # how_to_make_a_simulation.pdf
+  title: Search for Planning in Simulations
+  slides: search_planning_simulation.pdf
   readings:
         -
           title: AIMA Chapter 11
