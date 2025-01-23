@@ -7,10 +7,10 @@ title: PDDL and Planning
 type: Homework
 number: 1
 active_tab: homework
-release_date: 
-due_date: 
+release_date: 01-23-2025
+due_date: 02-06-2025
 materials:
-submission_link:
+submission_link: https://www.gradescope.com
 readings:
 ---
 
@@ -25,12 +25,14 @@ You can download the materials for this assignment here:
 </div>
 {% endif %}
 
+### HW1
+
 This HW has 4 parts, 3 are required and one is extra credit.
 
-- Part 1: Making a text game / simulation environment
-- Part 2: Search algorithms in said simulation environment
-- Part 3: PDDL based classical planning in text games
-- Part 4 (extra credit): Making novel text simulations from WikiHow articles
+- Part 1: Making a text game / simulation environment (40pts)
+- Part 2: Search algorithms in said simulation environment (30pts)
+- Part 3: PDDL based classical planning in text games (30pts)
+- Part 4 (extra credit): Making novel text simulations from WikiHow articles (20pts)
 
 
 Submissions should be done on [Gradescope]({{page.submission_link}}).

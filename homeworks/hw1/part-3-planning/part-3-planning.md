@@ -62,20 +62,16 @@ In general, a schema consists of:
 _Note: The enforcement of argument types like `(plane ?p)` can be left out of the action schema if we specify types in the domain PDDL file._
 
 
-
-
 ### What to do 
 
 1. Open [{{page.materials[0].name}}]({{page.materials[0].url}}).
 2. Unzip it 
 3. open hw1/part-3-planning/planning.ipynb
-3. Create pairs of PDDL files for the following problems:
+4. Create pairs of PDDL files for the following problems:
 * `move-item-to-location`
 * `go-fishing`
 * `feed-troll`
+
 If you've got extra time, you're welcome to work on PDDL definitions for other parts of the Action Castle game.
 
-
-4. Please submit your work to [Gradescope]({{page.submission_link}}) by {{ page.due_date | date: "%A, %B %-d, %Y" }} before {{ page.due_date | date: "%I:%M%p" }}. 
-
-
+Please submit your `planning.ipynb` file to "HW 1 - Part 3 Planning" on the [Gradescope]({{page.submission_link}}). 
