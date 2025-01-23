@@ -144,16 +144,16 @@ Your game should include all of the following:
 * At least one "puzzle" where there are certain preconditions that must be met before the player can make forward progress.  This could be an Action or a Block.
 * At least one "win" state and at least one "lose" state.
 
-A fun example of a tiny game with very 3 locations and 3 items is the "Flaming Goat" game in Jared A. Sorensen's [Parsley book](http://www.memento-mori.com/pdf/parsely-pdf).  I played it with my son when he was 6 year old, and it cracked him up.
+A fun example of a tiny game with very 3 locations and 3 items is the "Flaming Goat" game in Jared A. Sorensen's [Parsley book](http://www.memento-mori.com/pdf/parsely-pdf).
 
 Optionally, you can think about adding other elements to your game, like:
 * Scoring
 * Changes over time
 * Interesting non-player characters
 
-Feel free to modify the starter code in any way you see fit in order to enable your game ideas. However, the "Play the game" and "Visualize your game" code blocks should remain functional.
+Feel free to modify the starter code (`Text_Adventure_Game.ipynb`) in any way you see fit in order to enable your game ideas. However, the "Play the game" and "Visualize your game" code blocks should remain functional.
 
-What kind of game should you make?  It's up to you! Be creative!  For inspiration, we recommend searching Pinterest for cross-section maps.  Here are some that we like:
+What kind of game should you make?  It's up to you! Be creative! For inspiration, we recommend searching Pinterest for cross-section maps.  Here are some that we like:
 
 <div class="container-fluid">
   <div class="row">
@@ -208,7 +208,7 @@ Submissions should be done on [Gradescope]({{page.submission_link}}).
 - A text file called `README.md` containing a short paragraph describing your game, and why you picked that topic.
 - An image (game-visualization.jpg or pdf) showing the directed graph for your game. 
 
-Do not zip or compress your files. Submit them as individual files.
+Do not zip or compress your files! Submit them as individual files.
 
 
 ## Grading
