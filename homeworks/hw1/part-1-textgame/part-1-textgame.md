@@ -198,20 +198,23 @@ For some extensions, you may need to modify the base code.  That's fine!  You ca
 
 ## What to submit
 
-You should submit a link to a Github repository which contains the following:
-
-1. An Python notebook called `action_castle.ipynb` that runs Action Castle. (You can use [Google Colab to view IPython Notebooks on Github](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb).)
-2. An IPython notebook called `my_game.ipynb` that runs the initial version of your game.
-3. A text file called `playthrough.txt` with all of the commands that we need to issue to complete your game. It shold be a plain text file with one command per line.
-4. A text file called `README.md` containing a short paragraph describing your game, and why you picked that topic.
-5. An image showing the directed graph for your game. 
-
 Submissions should be done on [Gradescope]({{page.submission_link}}).
+
+1. Submit an IPython notebook called `action_castle.ipynb` that runs Action Castle to "HW 1 - Part 1 Action Castle". This assignment will be automatically graded.
+
+2. Submit 4 files to "HW 1 - Part 1 My game"
+- An IPython notebook called `my_game.ipynb` that runs the initial version of your game.
+- A text file called `playthrough.txt` with all of the commands that we need to issue to complete your game. It should be a plain text file with one command per line.
+- A text file called `README.md` containing a short paragraph describing your game, and why you picked that topic.
+- An image (game-visualization.jpg or pdf) showing the directed graph for your game. 
+
+Do not zip or compress your files. Submit them as individual files.
+
 
 ## Grading
 <div class="alert alert-warning" markdown="1">
-* Implement Action Castle - 5 points
-* Implement Your Own Creation - 5 points
+* Implement Action Castle - 20 points
+* Implement Your Own Creation - 20 points
 </div>
 
 {% if page.readings %} 
