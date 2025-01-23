@@ -26,8 +26,10 @@ The materials that you will need for this homework are:
 </div>
 {% endif %}
 
+Follow the instruction in the `Search Algorithms for Action Castle.ipynb` file.
 
+### Submission
 
-1. Please submit your work to [Gradescope]({{page.submission_link}}) by {{ page.due_date | date: "%A, %B %-d, %Y" }} before {{ page.due_date | date: "%I:%M%p" }}. 
+Please submit `Search Algorithms for Action Castle.ipynb` file to "HW 1 - Part 2 Search" on [Gradescope]({{page.submission_link}}).
 
-
+Do not remove `# export` comments. The grading script uses these comments to evaluate your functions. We will NOT audit submissions to add these. If the autograder failes to run due to your modification of these comments, you will not receive credit.
