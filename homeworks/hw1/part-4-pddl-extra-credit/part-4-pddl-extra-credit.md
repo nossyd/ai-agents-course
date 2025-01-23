@@ -12,10 +12,10 @@ due_date:
 materials:
     - 
         name: Example of How To Convert WikiHow to PDDL.ipynb
-        url:
+        url: https://github.com/pearls-lab/ai-agents-course/blob/main/homeworks/hw1/part-4-pddl-extra-credit/Example_of_How_To_Convert_WikiHow_to_PDDL.ipynb
     - 
-        name: Colab to Annotate Your PDDL with WikiHow Mentions.ipynb
-        url: 
+        name: Annotate Your PDDL with WikiHow Mentions.ipynb
+        url: https://github.com/pearls-lab/ai-agents-course/blob/main/homeworks/hw1/part-4-pddl-extra-credit/Annotate_Your_PDDL_with_WikiHow_Mentions.ipynb
 readings:
     -
         title: AIMA Chapter 11 "Automated Planning"
@@ -324,7 +324,7 @@ You should submit the following:
 1. cover at least 3 problems, 
 2. give initial states and goals for each, and 
 3. ensure that the goal can be reached from the initial state using your action schema. 
-* A JSON file containing your annotations that map from the elements in your PDDL domain onto phrases in the wikiHow article that you selected.  You can  use this [Colab to annotate your PDDL elements with mentions from your WikiHow article]({{page.materials[1].url}}).
+* A JSON file containing your annotations that map from the elements in your PDDL domain onto phrases in the wikiHow article that you selected.  You can  use this [Annotate your PDDL elements with mentions from your WikiHow article]({{page.materials[1].url}}).
 * A PDF file containing your writeup.  You should include at least 1 paragraphs for each of the following topics:
 1. What wikiHow article did you pick and why?
 2. What portions of the article did you select to translate to PDDL?

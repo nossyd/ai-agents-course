@@ -10,9 +10,9 @@ release_date:
 due_date:
 materials:
     - 
-        name: hw1.zip
-        url:
-submission_link:
+        name: hw1
+        url: https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw1
+submission_link: https://www.gradescope.com
 ---
 
 {% if page.materials %}
@@ -65,7 +65,7 @@ _Note: The enforcement of argument types like `(plane ?p)` can be left out of th
 ### What to do 
 
 1. Open [{{page.materials[0].name}}]({{page.materials[0].url}}).
-2. Unzip it 
+2. Unzip it (or `git clone`)
 3. open hw1/part-3-planning/planning.ipynb
 4. Create pairs of PDDL files for the following problems:
 * `move-item-to-location`

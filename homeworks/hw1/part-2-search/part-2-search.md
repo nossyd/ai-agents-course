@@ -10,9 +10,9 @@ release_date:
 due_date:
 materials:
     - 
-        name: hw1.zip
-        url:
-submission_link:
+        name: hw1
+        url: https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw1
+submission_link: https://www.gradescope.com
 ---
 
 {% if page.materials %}
