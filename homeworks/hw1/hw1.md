@@ -29,7 +29,7 @@ You can download the materials for this assignment here:
 
 This HW has 4 parts, 3 are required and one is extra credit.
 
-- [Part 1: Making a text game / simulation environment (40pts)](part-1-textgame)
+- [Part 1: Making a text game / simulation environment (40pts)](part-1-textgame.md)
 - Part 2: Search algorithms in said simulation environment (30pts)
 - Part 3: PDDL based classical planning in text games (30pts)
 - Part 4 (extra credit): Making novel text simulations from WikiHow articles (20pts)
