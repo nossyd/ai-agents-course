@@ -54,11 +54,15 @@
           title: "GET LAMP: The Text Adventure Documentary"
           length: 2 hours
           optional: true
--
+- 
   date: 2025-01-21
   title: Search for Planning in Simulations
   slides: search_planning_simulation.pdf
   readings:
+        -
+          title: Intro to STRIPS
+          url: https://www.primaryobjects.com/2015/11/06/artificial-intelligence-planning-with-strips-a-gentle-introduction/
+          authors: Kory Becker
         -
           title: AIMA Chapter 11
           url: https://aima.cs.berkeley.edu/newchap11.pdf
