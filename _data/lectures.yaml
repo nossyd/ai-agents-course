@@ -76,6 +76,10 @@
           url: http://incompleteideas.net/book/RLbook2020.pdf
           authors: Rich Sutton and Andrew Barto
 -
+  date: 2025-01-22
+  title: Finalize Project Groups
+  type: deadline
+-
   date: 2025-01-23
   title: Classical Control, Pre-Deep Learning
   slides: classical_control.pdf
