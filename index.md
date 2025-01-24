@@ -6,7 +6,7 @@ active_tab: main_page
 ---
 
 <!-- Display an alert about upcoming homework assignments -->
-{% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+<!-- {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 {% for page in site.pages %}
 {% if page.release_date and page.due_date %}
 {% capture release_date %}{{page.release_date | date: '%s'}}{% endcapture %}
@@ -40,7 +40,7 @@ It is due before {{ page.due_date | date: "%I:%M%p" }} on {{ page.due_date | dat
 {% endif %}
 {% endif %}
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 <!-- End alert for upcoming homework assignments -->
 
 

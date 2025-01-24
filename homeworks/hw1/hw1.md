@@ -7,8 +7,8 @@ title: PDDL and Planning
 type: Homework
 number: 1
 active_tab: homework
-release_date: 23-01-2025
-due_date: 06-02-2025
+release_date: 01-23-2025
+due_date: 02-06-2025
 materials:
 submission_link: https://www.gradescope.com
 readings:
