@@ -54,6 +54,10 @@
           title: "GET LAMP: The Text Adventure Documentary"
           length: 2 hours
           optional: true
+-
+  date: 2025-01-21
+  title: HW0 Due
+  type: homework
 - 
   date: 2025-01-21
   title: Search for Planning in Simulations
@@ -74,7 +78,7 @@
 -
   date: 2025-01-23
   title: Classical Control, Pre-Deep Learning
-  slides: # how_to_make_a_simulation.pdf
+  slides: classical_control.pdf
   readings:
         -
           title: RL Book Chapter 4, 5
@@ -106,6 +110,10 @@
   title: Project Pitches
 -
   date: 2025-02-06
+  title: HW1 Due
+  type: homework
+-
+  date: 2025-02-06
   title: Reinforcement Learning and Search Combined
   readings:
         -
@@ -121,3 +129,170 @@
           url: https://arxiv.org/abs/1911.08265
           authors: Schrittwieser et al. 2019
           optional: True
+-
+  date: 2025-02-11
+  title: Attention and Language Modeling
+  recording:
+  readings:
+        -
+          title: Attention is All You Need
+          url: https://arxiv.org/abs/1706.03762
+          authors: Vaswani et al.
+        -
+          title: The Illustrated Transformer
+          url: https://jalammar.github.io/illustrated-transformer/
+          authors: Jay Alammar
+        -
+          title: Language Models are Few Shot Learners
+          url: https://arxiv.org/abs/2005.14165
+          authors: Brown et al.
+-
+  date: 2025-02-13
+  title: RL for Language Agents Pt 1 (Online RL for NLP, RLHF)
+  recording: 
+  readings:
+        -
+          title: Is Reinforcement Learning (Not) for Natural Language Processing? Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
+          url: https://github.com/allenai/RL4LMs
+          authors: Ramamurthy*, Ammanabrolu* et al.
+        -
+          title: Training Language Models to Follow Instructions with Human Feedback
+          url: https://arxiv.org/abs/2203.02155
+          authors: Ouyang et al.
+-
+  date: 2025-02-18
+  title: RL for Language Agents Pt 2 (Rewards and Closed Form Methods)
+  recording:
+  readings:
+        -
+          title: Let's Verify Step by Step
+          url: https://arxiv.org/abs/2305.20050
+          authors: Lightman et al.     
+        -
+          title: Fine-Grained Human Feedback Gives Better Rewards for Language Model Training
+          url: https://arxiv.org/abs/2306.01693
+          authors: Wu et al.
+        -
+          title: Direct Preference Optimization Your Language Model is Secretly a Reward Model
+          url: https://arxiv.org/abs/2305.18290
+          authors: Rafailov et al.
+-
+  date: 2025-02-20
+  title: HW2 Due
+  type: homework
+-
+  date: 2025-02-20
+  title: Prompting and Prompt Optimization
+  recording: 
+  readings:
+        -
+          title: ReAct Synergizing Reasoning and Acting in Language Models
+          url: https://arxiv.org/abs/2210.03629
+          authors: Yao et al.
+        -
+          title: (RAG) Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+          url: https://arxiv.org/abs/2005.11401
+          authors: Lewis et al.
+        -
+          title: Building Effective Agents
+          url: https://www.anthropic.com/research/building-effective-agents
+          authors: Anthropic
+        -
+          title: DsPy Compiling Declarative Language Model Calls into Self-Improving Pipelines
+          url: https://arxiv.org/abs/2310.03714
+          authors: Khttab et al.
+          optional: True
+-
+  date: 2025-02-25
+  title: Neurosymbolic Tool Use Methods and Agent Reasoning
+  recording: 
+  readings:
+        -
+          title: Behavior Cloned Transformers are Neurosymbolic Reasoners
+          url: https://arxiv.org/abs/2210.07382
+          authors: Wang et al.
+        -
+          title: LLM+P Empowering Large Language Models with Optimal Planning Proficiency
+          url: https://arxiv.org/abs/2304.11477
+          authors: Liu et al.
+        -
+          title: Gorilla Large Language Model Connected with Massive APIs
+          url: https://gorilla.cs.berkeley.edu/
+          authors: 
+        -
+          title: PlanBench An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change
+          url: https://arxiv.org/abs/2206.10498
+          authors: Valmeekam et al.
+-
+  date: 2025-02-27
+  title: Agent Reasoning and Inference Time Methods
+  recording: 
+  readings:
+        -
+          title: Quiet-STaR Language Models Can Teach Themselves to Think Before Speaking
+          url: https://arxiv.org/abs/2403.09629
+          authors: Zelikman et al.
+        -
+          title: Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters
+          url: https://arxiv.org/abs/2408.03314
+          authors: Snell et al.
+        -
+          title: Stream of Search (SoS) Learning to Search in Language
+          url: https://arxiv.org/abs/2404.03683
+          authors: Gandhi et al.
+-
+  date: 2025-03-04
+  title: HW3 Due
+  type: homework
+-
+  date: 2025-03-04
+  title: Multi-Agent Systems and Human-AI Collaboration
+  recording: 
+  readings: 
+        -
+          title: LIGHT - A large-scale crowdsourced fantasy text game
+          url: https://parl.ai/projects/light
+          authors: Urbanek et al.
+        -
+          title: Generative Agents Interactive Simulacra of Human Behavior
+          url: https://arxiv.org/abs/2304.03442
+          authors: Park et al.
+        -
+          title: A Survey on Human-AI Teaming with Large Pre-Trained Models
+          url: https://arxiv.org/abs/2403.04931
+          authors: Vats et al.
+-
+  date: 2025-03-06
+  title: Societal Impacts and Agent Safety
+  recording:
+  readings:
+        -
+          title: Evaluating and Mitigating Discrimination in Language Model Decisions
+          url: https://arxiv.org/abs/2312.03689
+          authors: Tamkin et al.
+        -
+          title: Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API
+          url: https://arxiv.org/abs/2501.09798
+          authors: Labunets et al.
+        -
+          title: Measuring Progress on Scalable Oversight for Large Language Models
+          url: https://arxiv.org/abs/2211.03540
+          authors: Bowman et al.
+        -
+          title: Creativity Support in the Age of Large Language Models An Empirical Study Involving Emerging Writers
+          url: https://arxiv.org/abs/2309.12570
+          authors: Chakrabarty et al.
+          optional: true
+        -
+          title: Aligning to Social Norms and Values in Interactive Narratives
+          url: https://arxiv.org/abs/2205.01975
+          authors: Ammanabrolu et al.
+          optional: true
+-
+  date: 2025-03-11
+  title: Final Presentations Pt 1
+  recording: 
+-
+  date: 2025-03-13
+  title: Final Presentations Pt 2
+  recording: 
