@@ -14,17 +14,17 @@ active_tab: main_page
 {% if release_date < now and due_date >= now %}
 {% if page.type == "in-class" %}
 <!-- In class activity -->
-<div class="alert alert-danger">
+<!-- <div class="alert alert-danger">
 The in-class activity for {{ page.release_date | date: "%A %b %-d" }} will be to <a href="{{page.url}}">{{ page.title }}</a>.  
 </div>
 <!-- Other participation activity -->
-{% elsif page.type == "participation" %}
+<!-- {% elsif page.type == "participation" %}
 <div class="alert alert-info">
 The participation activity <a href="{{page.url}}">{{ page.title }}</a> is due on {{ page.due_date | date: "%A, %B %-d, %Y" }} before {{ page.due_date | date: "%I:%M%p" }}. 
 </div>
-{% else %}
+{% else %} -->
 <!-- Homework assignment -->
-<div class="alert alert-success">
+<!-- <div class="alert alert-success">
 <a href="{{page.url}}">{{page.type}} {{page.number}}: {{page.title}}</a> has been released.  
 {% if page.deliverables %}
 The assignment has multiple deliverables.
