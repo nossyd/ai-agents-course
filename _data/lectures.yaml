@@ -186,7 +186,7 @@
   type: homework
 -
   date: 2025-02-20
-  title: Prompting and Prompt Optimization
+  title: Prompt Optimization
   recording: 
   readings:
         -
@@ -222,7 +222,7 @@
         -
           title: Gorilla Large Language Model Connected with Massive APIs
           url: https://gorilla.cs.berkeley.edu/
-          authors: 
+          authors: Patil et al.
         -
           title: PlanBench An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change
           url: https://arxiv.org/abs/2206.10498
