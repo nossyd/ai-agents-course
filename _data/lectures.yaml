@@ -91,7 +91,7 @@
 -
   date: 2025-01-28
   title: Deep Reinforcement Learning, Pre-LLMs
-  slides: # how_to_make_a_simulation.pdf
+  slides: deep_rl_pre_llms.pdf
   readings:
         -
           title: RL Book Chapter 6.1-6.5
