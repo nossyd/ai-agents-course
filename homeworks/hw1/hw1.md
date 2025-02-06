@@ -37,10 +37,10 @@ This HW has 4 parts, 3 are required and one is extra credit.
 
 Submissions should be done on [Gradescope]({{page.submission_link}}).
 
-## Grading
+<!-- ## Grading
 <div class="alert alert-warning" markdown="1">
 
-</div>
+</div> -->
 
 {% if page.readings %} 
 ## Recommended readings

@@ -91,7 +91,7 @@
 -
   date: 2025-01-28
   title: Deep Reinforcement Learning, Pre-LLMs
-  slides: # how_to_make_a_simulation.pdf
+  slides: deep_rl_pre_llms.pdf
   readings:
         -
           title: RL Book Chapter 6.1-6.5
@@ -117,9 +117,13 @@
   title: HW1 Due
   type: homework
 -
+  date: 2025-02-07
+  title: Project Pitch Slide Decks Due
+  type: deadline
+-
   date: 2025-02-06
   title: Reinforcement Learning and Search Combined
-  readings:
+  readings: rl_search_combined.pdf
         -
           title: (Alpha Zero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
           url: https://arxiv.org/abs/1712.01815
@@ -186,7 +190,7 @@
   type: homework
 -
   date: 2025-02-20
-  title: Prompting and Prompt Optimization
+  title: Prompt Optimization
   recording: 
   readings:
         -
@@ -204,7 +208,7 @@
         -
           title: DsPy Compiling Declarative Language Model Calls into Self-Improving Pipelines
           url: https://arxiv.org/abs/2310.03714
-          authors: Khttab et al.
+          authors: Khattab et al.
           optional: True
 -
   date: 2025-02-25
@@ -222,7 +226,7 @@
         -
           title: Gorilla Large Language Model Connected with Massive APIs
           url: https://gorilla.cs.berkeley.edu/
-          authors: 
+          authors: Patil et al.
         -
           title: PlanBench An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change
           url: https://arxiv.org/abs/2206.10498

@@ -61,7 +61,7 @@ $ unzip hw1.zip
 $ cd part-1-textgame
 $ python3 -mvenv venv
 $ source venv/bin/activate
-(venv) $ pip install .
+(venv) $ pip install -r requirements.txt
 ```
 
 #### VSCode
