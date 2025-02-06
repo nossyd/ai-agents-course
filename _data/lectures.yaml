@@ -117,9 +117,13 @@
   title: HW1 Due
   type: homework
 -
+  date: 2025-02-07
+  title: Project Pitch Slide Decks Due
+  type: deadline
+-
   date: 2025-02-06
   title: Reinforcement Learning and Search Combined
-  readings:
+  readings: rl_search_combined.pdf
         -
           title: (Alpha Zero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
           url: https://arxiv.org/abs/1712.01815
