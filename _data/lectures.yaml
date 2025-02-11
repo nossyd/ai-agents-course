@@ -161,6 +161,10 @@
   recording: 
   readings:
         -
+          title: RL Book Chapter 13
+          url: http://incompleteideas.net/book/RLbook2020.pdf
+          authors: Rich Sutton and Andrew Barto
+        -
           title: Is Reinforcement Learning (Not) for Natural Language Processing? Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
           url: https://github.com/allenai/RL4LMs
           authors: Ramamurthy*, Ammanabrolu* et al.
