@@ -7,8 +7,8 @@ img: mouse_character_image_small.png
 caption: Mausritter character portrait
 number: 3
 active_tab: homework
-release_date: 02-20-2025
-due_date: 03-06-2025
+release_date: 2025-02-20
+due_date: 2025-03-06
 materials:
    -
       name: hw3-aidm.ipynb
