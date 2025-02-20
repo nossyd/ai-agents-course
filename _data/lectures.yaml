@@ -158,7 +158,7 @@
 -
   date: 2025-02-13
   title: RL for Language Agents Pt 1 (Online RL for NLP, RLHF)
-  slides: rl_langauge_agents_pt1.pdf
+  slides: rl_language_agents_pt1.pdf
   readings:
         -
           title: RL Book Chapter 13
@@ -175,7 +175,7 @@
 -
   date: 2025-02-18
   title: RL for Language Agents Pt 2 (Rewards and Closed Form Methods)
-  slides: rl_langauge_agents_pt2.pdf
+  slides: rl_language_agents_pt2.pdf
   readings:
         -
           title: Let's Verify Step by Step
