@@ -158,7 +158,7 @@
 -
   date: 2025-02-13
   title: RL for Language Agents Pt 1 (Online RL for NLP, RLHF)
-  recording: 
+  slides: rl_langauge_agents_pt1.pdf
   readings:
         -
           title: RL Book Chapter 13
@@ -175,7 +175,7 @@
 -
   date: 2025-02-18
   title: RL for Language Agents Pt 2 (Rewards and Closed Form Methods)
-  recording:
+  slides: rl_langauge_agents_pt2.pdf
   readings:
         -
           title: Let's Verify Step by Step
@@ -196,7 +196,7 @@
 -
   date: 2025-02-20
   title: Prompt Optimization
-  recording: 
+  slides: prompting.pdf
   readings:
         -
           title: ReAct Synergizing Reasoning and Acting in Language Models
