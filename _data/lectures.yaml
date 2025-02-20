@@ -255,10 +255,6 @@
           authors: Gandhi et al.
 -
   date: 2025-03-04
-  title: HW3 Due
-  type: homework
--
-  date: 2025-03-04
   title: Multi-Agent Systems and Human-AI Collaboration
   recording: 
   readings: 
@@ -274,6 +270,10 @@
           title: A Survey on Human-AI Teaming with Large Pre-Trained Models
           url: https://arxiv.org/abs/2403.04931
           authors: Vats et al.
+-
+  date: 2025-03-06
+  title: HW3 Due
+  type: homework
 -
   date: 2025-03-06
   title: Societal Impacts and Agent Safety
@@ -309,3 +309,7 @@
   date: 2025-03-13
   title: Final Presentations Pt 2
   recording: 
+-
+  date: 2025-03-17
+  title: Final Project Writeups Due
+  type: deadline
