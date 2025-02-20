@@ -7,13 +7,13 @@ img: mouse_character_image_small.png
 caption: Mausritter character portrait
 number: 3
 active_tab: homework
-release_date: 
-due_date:
+release_date: 02-20-2025
+due_date: 03-06-2025
 materials:
    -
       name: hw3-aidm.ipynb
       url: https://github.com/pearls-lab/ai-agents-course/tree/main/homeworks/hw3/hw3-aidm.ipynb
-submission_link:
+submission_link: https://www.gradescope.com
 readings:
   - title: Kani&colon; A Lightweight and Highly Hackable Framework for Building Language Model Applications
     authors: Andrew Zhu, Liam Dugan, Alyssa Hwang, Chris Callison-Burch
@@ -21,7 +21,7 @@ readings:
     year: 2024
     type: paper
     url: https://aclanthology.org/2023.nlposs-1.8/
---->
+---
 
 <div class="alert alert-info">
 This assignment is due on {{ page.due_date | date: "%A, %B %-d, %Y" }} before {{ page.due_date | date: "%I:%M%p" }}. 
