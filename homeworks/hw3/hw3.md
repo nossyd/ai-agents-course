@@ -8,7 +8,7 @@ caption: Mausritter character portrait
 number: 3
 active_tab: homework
 release_date: 2025-02-20
-due_date: 2025-03-06
+due_date: 2025-03-06 23:59:00
 materials:
    -
       name: hw3-aidm.ipynb
