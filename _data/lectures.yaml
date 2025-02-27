@@ -239,7 +239,7 @@
 -
   date: 2025-02-27
   title: Agent Reasoning and Inference Time Methods
-  recording: 
+  slides: inference_time_scaling.pdf
   readings:
         -
           title: Quiet-STaR Language Models Can Teach Themselves to Think Before Speaking
