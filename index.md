@@ -63,14 +63,15 @@ This course will cover the basics of (1) what LLM-based AI Agents actually are; 
 #### Rough Outline
 
 - What are agents? Starting in the 70s to today
-- Simulation environments, how they are built
-- Search / Planning in simulations
+- Simulation Environments, how they are built
+- Search / Planning in Simulations
 - Monte Carlo Methods
 - Basics of Deep RL
-- LLM Basics
-- Deep RL for language agents
-- Other LLM Agents methods – tool use, prompting
-- Human AI Collab Basics
+- Search + RL
+- LLM (Post) Training Basics: SFT, RLHF, Preference Reward, Closed Form Methods
+- Deep RL for Language Agents
+- Other LLM Agents Methods – Tool Use, In-context Learning, Inference Time Scaling
+- Multi Agent + Human-AI Collab
 - Agent Safety
 
 
