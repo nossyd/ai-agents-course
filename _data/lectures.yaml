@@ -256,7 +256,7 @@
 -
   date: 2025-03-04
   title: Multi-Agent Systems and Human-AI Collaboration
-  recording: 
+  slides: multi_agent.pdf
   readings: 
         -
           title: LIGHT - A large-scale crowdsourced fantasy text game
