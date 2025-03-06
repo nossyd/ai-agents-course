@@ -277,7 +277,7 @@
 -
   date: 2025-03-06
   title: Societal Impacts and Agent Safety
-  recording:
+  slides: agent_safety.pdf
   readings:
         -
           title: Evaluating and Mitigating Discrimination in Language Model Decisions
